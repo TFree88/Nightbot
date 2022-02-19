@@ -1,0 +1,5 @@
+if (a == "Jmurph899"){"Welcome JMurph, The Hall’s all time gifted sub leader".}
+else if (a == "Drfeelgood_nz"){"Welcome DFG, does anyone need their prostate examined?".}
+else if (a == "Fancyfantasy"){"Welcome Fanciest of Boys".}
+else if (a == "Free88"){"Let's fuckin ride Hall".}
+else {"Welcome, The Hall is for All!"}
